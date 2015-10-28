@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/markthethomas/visual-deps/issues"
   },
-  "homepage": "https://github.com/markthethomas/visual-deps#readme"
+  "homepage": "https://github.com/markthethomas/visual-deps#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "d3": "^3.5.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "webpack": "^1.12.2"
+  }
 }
