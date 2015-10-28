@@ -1,0 +1,31 @@
+{
+  "name": "visual-deps",
+  "version": "0.0.1",
+  "description": "Simple cli tool that spits out a visualization of your npm dependencies",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markthethomas/visual-deps.git"
+  },
+  "keywords": [
+    "d3",
+    "npm",
+    "deps",
+    "dependencies",
+    "visual",
+    "visualization"
+  ],
+  "author": "Mark Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markthethomas/visual-deps/issues"
+  },
+  "homepage": "https://github.com/markthethomas/visual-deps#readme"
+}
